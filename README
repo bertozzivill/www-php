@@ -1,0 +1,26 @@
+Hello! Welcome to your account.
+
+This is your home directory. It's full path is /home/YOUR_USERNAME_HERE/ - don't worry if you don't know what
+this means. You really don't need to know it for general use. However it is nice to know for certain scripts.
+
+By default, your home directory has the following directories:
+
+www - This is where all your website files go. By default, only the files you upload to your www directory are
+viewable on the internet. Files "above" the www directory are not viewable.
+
+etc - This directory contains a php.ini file that you can customize with the php options you need. It is important to note
+that this php.ini file takes effect ONLY when you are using php as a cgi (you can change this in your control panel). The
+default php configuration  (mod_php) does NOT use your custom php.ini. When using the default configuration you can change
+php options using .htaccess files.
+
+If you need help, enter a support ticket. We're here for you!
+
+
+
+Please Note:
+
+Until your account is manually verified by a system administrator, some functions will not work. In particular, sending of email 
+via php's mail() function is disabled. This is done to protect your server against abuse. As soon as your account has been manually verified, all
+functions will be enabled. php's safe_mode will also be removed once your account is verified.
+
+

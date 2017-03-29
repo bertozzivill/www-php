@@ -1,0 +1,10 @@
+
+
+Using a custom php.ini :
+
+Settings made to this php.ini file only work when you have set your php version to cgi. By default
+your account will use mod_php. When using mod_php you can update php.ini values through .htaccess files.
+
+To be clear: this php.ini file will NOT have any effect when using the default mod_php configuration.
+
+
