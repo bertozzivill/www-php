@@ -140,3 +140,73 @@ composer.phar  update --no-scripts -d /home/bertozzivill/
 ls
 #1476202176
 ls vendor/
+#1490745768
+git status
+#1490745815
+ls
+#1490746248
+cd www_old
+#1490746250
+ls
+#1490746255
+cd priv_stats
+#1490746255
+ls
+#1490746430
+cd ../..
+#1490746431
+ls
+#1490746434
+cd app
+#1490746435
+ls
+#1490746438
+cd ..
+#1490746438
+ls
+#1490746539
+ls -a
+#1490746546
+git init
+#1490746563
+git add .
+#1490746609
+
+#1490746621
+git commit
+#1490746651
+git config --global user.email "bertozzivill@gmail.com"
+#1490746664
+git config --global user.name "Amelia Bertozzi-Villa"
+#1490746670
+git commit
+#1490746699
+git commit -m "set up git on web server"
+#1490746793
+git remote add origin https://github.com/bertozzivill/www-php.git
+#1490746808
+git push -u origin master
+#1490746937
+git remote add origin git://github.com/bertozzivill/www-php.git
+#1490746949
+git push origin master
+#1490746970
+git remote rm origin
+#1490746973
+git remote add origin git://github.com/bertozzivill/www-php.git
+#1490746981
+git push -u origin master
+#1490746993
+git remote rm origin
+#1490747010
+git remote add origin https://github.com/bertozzivill/www-php.git
+#1490747016
+git push -u origin master
+#1490747021
+curl
+#1490747024
+curl --help
+#1490747193
+git push -u origin master
+#1490747412
+git remote
