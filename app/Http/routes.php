@@ -6,6 +6,7 @@ use Vinelab\Rss\Rss;
 $pubs = Yaml::parse(file_get_contents('../resources/pubs.yaml'));
 
 $blog = iterator_to_array((new Rss())->feed("https://medium.com/feed/@abertozz")->articles());
+$blog = array_filter($blog, function($post) { return isset($post->category); });
 
 $all_news =array_merge($pubs, $blog);
 usort($all_news, function ($a, $b) {
