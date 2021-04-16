@@ -1,9 +1,44 @@
+-   title   : "Mapping malaria by sharing spatial information between incidence and prevalence data sets"
+    nickname: Lucas sharing information
+    authors : Lucas TCD, Nandi AK, Chestnutt EG et al.
+    pubDate: 2021-04-05
+    journal : Journal of the Royal Statistical Society
+    url     : https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssc.12484
+
+-   title   : "Outcomes assessment pitfalls: challenges to quantifying knowledge gain in a sex education game"
+    nickname: Sex education assessment
+    authors : Bertozzi E, Bertozzi-Villa A, Padankatti S, Sridhar A
+    pubDate: 2021-03-21
+    journal : Gates Open Research
+    url     : https://gatesopenresearch.org/articles/4-73/v3#referee-response-30420
+
 -   title   : "Spatiotemporal mapping of malaria prevalence in Madagascar using routine surveillance and health survey data"
     nickname: Madagascar routine surveillance
     authors : Arambepola R, Keddie SH, Collins EL et al.
     pubDate: 2020-10-22
     journal : Nature Scientific Reports
     url     : https://www.nature.com/articles/s41598-020-75189-0
+
+-   title   : "Global estimation of anti-malarial drug effectiveness for the treatment of uncomplicated Plasmodium falciparum malaria 1991–2019"
+    nickname: Antimalarial effectiveness
+    authors : Rathmes G, Rumisha Susan F, Lucas TCD et al.
+    pubDate: 2020-10-20
+    journal : Malaria Journal
+    url     : https://link.springer.com/article/10.1186/s12936-020-03446-8
+
+-   title   : "Indirect effects of the COVID-19 pandemic on malaria intervention coverage, morbidity, and mortality in Africa: a geospatial modelling analysis"
+    nickname: Covid-malaria service disruption
+    authors : Weiss DJ, Bertozzi-Villa A, Rumisha SF et al.
+    pubDate: 2020-09-21
+    journal : Lancet Infectious Diseases
+    url     : https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30700-3/fulltext
+
+-   title   : "Quantifying Inequitable Access to Rapid Burn and Reconstructive Care through Geospatial Mapping"
+    nickname: Burn access
+    authors : Lo S, Ampomah O, Ankrah L et al.
+    pubDate: 2020-08-15
+    journal : Plastic and Reconstructive Surgery
+    url     : https://journals.lww.com/prsgo/Fulltext/2020/08000/Quantifying_Inequitable_Access_to_Rapid_Burn_and.45.aspx
 
 -   title   : "Improving disaggregation models of malaria incidence by ensembling non-linear models of prevalence"
     nickname: Disaggregation model
