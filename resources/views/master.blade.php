@@ -23,7 +23,7 @@
                 <li><a href="https://idmod.org/" target="_blank">Work</a></li>
                 <li><a href="/publications">Publications</a></li>
                 <li><a href="https://medium.com/@abertozz" target="_blank">Blog</a></li>
-                // <li><a href="https://twitter.com/abertozz" target="_blank">@abertozz</a></li>
+                <li><a href="https://twitter.com/abertozz" target="_blank">@abertozz</a></li>
             </ul>
         </nav>
     </header>
