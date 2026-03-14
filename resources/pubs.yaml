@@ -1,3 +1,24 @@
+-   title   : "Projected impacts of climate change on malaria in Africa"
+    nickname: Climate change
+    authors : Symons TL, Moran A, Balzarolo A et al.
+    pubDate: 2026-01-28
+    journal : Nature
+    url     : https://www.nature.com/articles/s41586-025-10015-z
+
+-   title   : "Examining the overlap in lymphatic filariasis prevalence and malaria insecticide-treated net access-use in endemic Africa"
+    nickname: LF
+    authors : Whisnant JL, Sikder MK, Akalu GT et al.
+    pubDate: 2025-06-26
+    journal : PLOS Neglected Tropical Diseases
+    url     : https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013165
+
+-   title   : "Mapping the global prevalence, incidence, and mortality of Plasmodium falciparum and Plasmodium vivax malaria, 2000–22: a spatial and temporal modelling study"
+    nickname: Malaria maps 2025
+    authors : Weiss DJ, Dzianach PA, Saddler A et al.
+    pubDate: 2025-03-22
+    journal : The Lancet
+    url     : https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00038-8/fulltext
+
 -   title   : "Socioeconomic, Demographic, and Environmental Factors May Inform Malaria Intervention Prioritization in Urban Nigeria"
     nickname: Urban malaria
     authors : Chiziba C, Mercer LD, Diallo O et al.
@@ -208,7 +229,7 @@
     journal : The Lancet
     url     : http://ac.els-cdn.com/S0140673615606924/1-s2.0-S0140673615606924-main.pdf?_tid=f9228278-269f-11e5-8a50-00000aab0f6c&acdnat=1436490602_2ef06b6e7ef16f26d975b772cf2e6309
 
--   title   : Populations adapt to fluctuating selection using derived and ancestral allelic diversity
+-   title   : "Populations adapt to fluctuating selection using derived and ancestral allelic diversity"
     nickname: Stochastic switching
     authors : Lin WS, Rocco MJ, Bertozzi-Villa A, Kussell E
     pubDate: 2015-05-27

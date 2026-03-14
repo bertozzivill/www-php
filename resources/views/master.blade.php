@@ -23,7 +23,7 @@
                 <li><a href="https://idmod.org/" target="_blank">Work</a></li>
                 <li><a href="/publications">Publications</a></li>
                 <li><a href="https://medium.com/@abertozz" target="_blank">Blog</a></li>
-                <li><a href="https://twitter.com/abertozz" target="_blank">@abertozz</a></li>
+                // <li><a href="https://twitter.com/abertozz" target="_blank">@abertozz</a></li>
             </ul>
         </nav>
     </header>
@@ -32,7 +32,7 @@
         @yield('content')
     </section>
     <section class="map"></section>
-    <footer>&copy; 2014-2022 Amelia Bertozzi-Villa</footer>
+    <footer>&copy; 2014-2026 Amelia Bertozzi-Villa</footer>
 
     <script type="text/javascript" src="https://use.typekit.net/xqr8oql.js"></script>
     <script type="text/javascript">
